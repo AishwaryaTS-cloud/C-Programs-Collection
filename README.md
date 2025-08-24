@@ -1,19 +1,24 @@
 # C-Programs-Collection
 This repository contains a wide variety of C programs covering fundamentals, control flow, functions, arrays, strings, pointers, structures, file handling, date &amp; time, and more.
----
-
-## Table of Contents
-
-1. [Basic Programs](#basic-programs)  
-2. [Control Flow Programs](#control-flow-programs)  
-3. [Functions](#functions)  
-4. [Arrays](#arrays)  
-5. [Strings](#strings)  
-6. [Conversions](#conversions)  
-7. [Pointers](#pointers)  
-8. [Structures and Unions](#structures-and-unions)  
-9. [File I/O](#file-io)  
-10. [Date and Time](#date-and-time)  
-11. [More C Programs](#more-c-programs)  
 
 ---
+
+## Topics Covered
+
+- **Basic Programs:** Hello World, Calculator, Prime Check, Factorial, Fibonacci, etc.  
+- **Control Flow:** Loops, Conditions, Leap Year, Sum of Natural Numbers, etc.  
+- **Functions & Recursion:** Prime Check, Factorial, GCD, Power, Stack Reverse, etc.  
+- **Arrays & Matrices:** Searching, Sorting, Maximum/Minimum, Matrix Operations, etc.  
+- **Strings:** Concatenation, Palindrome, Reverse, Pangram, Unicode, etc.  
+- **Pointers & Structures:** Pointer Operations, Linked List Copy, Student Records, etc.  
+- **File I/O & Conversions:** Read/Write Files, Append, Convert between Data Types, etc.  
+- **Date & Time:** Current Date/Time, Digital Clock, Time Conversions, etc.  
+
+---
+
+## Usage
+
+1. Clone the repo:  
+```bash
+git clone https://github.com/AishwaryaTS-cloud/C-Programs-Collection.git
+```
