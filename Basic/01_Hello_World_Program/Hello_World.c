@@ -11,7 +11,7 @@ int main() {
 
 
 // To compile and run this program in terminal (PowerShell):
-// cd D:\Programs\C-Programs-Collection\Basic\C_Hello_World_Program
+// cd D:\Programs\C-Programs-Collection\Basic\01_Hello_World_Program
 // gcc Hello_World.c
 // ./a.exe
 // Output: Hello World
